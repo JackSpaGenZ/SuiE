@@ -1,0 +1,54 @@
+html {
+    width: 100%;
+    height: 100%;
+}
+
+#header {
+    width: 100%;
+    height: 40%;
+}
+#header img {
+    width: 100%;
+}
+
+#main {
+    width: 100%;
+    height: 40%;
+    background: yellowgreen;
+   
+}
+
+#main #login {
+    width: 30%;
+    font-size: 30px;
+    float: left;
+}
+
+#main #login img{
+    width: 13%;
+    margin: 10px;
+    margin-top: 40px;
+    margin-left: 20px;
+    float: left;
+}
+#main #login p {
+    width: 70%;
+    font-size: 30px;
+    margin: 50px;
+}
+
+#main #menu {
+    width: 70%;
+}
+#main #menu ul li {
+    list-style-type: none;
+    float: left;
+    font-size: 30px;
+    margin: 1%;
+}
+
+#footer {
+    width: 100%;
+    height: 20%;
+    background: black;
+}
